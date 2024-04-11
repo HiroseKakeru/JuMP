@@ -1,0 +1,9 @@
+name = "GenieStudy"
+uuid = "a51fd6c5-4dc8-4b25-8e6d-68216da8f7a2"
+authors = ["HiroseKakeru <hirose_kakeru@retail-ai.jp>"]
+version = "0.1.0"
+
+[deps]
+Example = "7876af07-990d-54b4-ab0e-23690620f79a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
